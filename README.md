@@ -1,0 +1,3 @@
+# adonis_anime_manager
+
+testing....
